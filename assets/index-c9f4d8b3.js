@@ -169,16 +169,12 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
 </li>
 <li class="tl-entry tl-entry-products">
   <div class="tl-head">
-    <span class="tl-dot tl-dot-now" aria-hidden="true"></span>
-    <h2 class="tl-company">My Work</h2>
-    <span class="tl-badge">Selected Projects</span>
+    <span class="tl-dot tl-dot-past" aria-hidden="true"></span>
+    <h2 class="tl-company">Landing pages I built</h2>
   </div>
-  <div class="tl-body">
-    <h3 class="tl-role">Landing Page & Digital Experience Builder</h3>
-    <p class="tl-desc">Designed and built high-converting landing pages and digital experiences from the ground up, combining clean UI/UX, responsive design, conversion-focused structure, and front-end execution.</p>
-  </div>
-  <ul class="tl-cases">
-    ${be.map(Se).join("")}
+  <p class="landing-note">A few examples of my landing-page design and build work.</p>
+  <ul class="landing-links" aria-label="Landing page projects">
+    ${be.map(e=>`<li><a class="landing-link" href="${e.href}" target="_blank" rel="noopener noreferrer"><img src="${e.logo}" alt="" width="24" height="24" loading="lazy"><span>${e.key==="nexus"?"Nexus":e.title}</span><span class="landing-arrow" aria-hidden="true">↗</span></a></li>`).join("")}
   </ul>
 </li>
 </ol>

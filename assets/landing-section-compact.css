@@ -1,0 +1,11 @@
+/* Supporting project links: keep marketing experience and results prominent. */
+.tl-entry-products { margin-top: 8px; }
+.tl-entry-products .tl-company { font-size: 16px; font-weight: 600; line-height: 1.4; }
+.landing-note { margin: 6px 0 10px; color: var(--muted, #737373); font-size: 13px; line-height: 1.5; }
+.landing-links { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2px 20px; max-width: 550px; margin: 0; padding: 0; list-style: none; }
+.landing-link { display: flex; align-items: center; gap: 9px; min-height: 44px; padding: 6px 8px; border-radius: 8px; color: inherit; text-decoration: none; font-size: 13px; line-height: 1.4; }
+.landing-link img { display: block; flex: 0 0 24px; width: 24px; height: 24px; border-radius: 6px; object-fit: contain; }
+.landing-link:hover { background: rgba(128, 128, 128, .09); }
+.landing-link:focus-visible { outline: 2px solid #3a53ed; outline-offset: 2px; }
+.landing-arrow { margin-left: auto; opacity: .45; font-size: 13px; }
+@media (max-width: 400px) { .landing-links { column-gap: 8px; } .landing-link { padding-inline: 2px; gap: 6px; } }
