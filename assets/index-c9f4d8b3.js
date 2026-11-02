@@ -37,7 +37,7 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
     <div class="tl-case-breakdown">
       <div class="tl-case-row">
         <span class="tl-case-label">Problem</span>
-        <p class="tl-case-val">Complete lack of brand visibility and zero citations in generative AI search engines.</p>
+        <p class="tl-case-val">No visibility or citations in AI search.</p>
       </div>
       <div class="tl-case-row">
         <span class="tl-case-label">Industry</span>
@@ -45,11 +45,11 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
       </div>
       <div class="tl-case-row">
         <span class="tl-case-label">What I Did</span>
-        <p class="tl-case-val">Conducted AI citation audits, restructured content for direct-answer Q&A formatting, deployed entity-level structured data schema, and tracked conversational search queries over 6 months.</p>
+        <p class="tl-case-val">Audited citations, added Q&A content and structured data, and tracked results for 6 months.</p>
       </div>
       <div class="tl-case-row tl-case-row-result">
         <span class="tl-case-label">Result</span>
-        <p class="tl-case-val tl-case-val-result">+16% AI impressions, +20% conversational Q&A capture rate, and +14% citation share across AI engines.</p>
+        <p class="tl-case-val tl-case-val-result">+16% AI impressions · +20% Q&A capture rate · +14% citation share.</p>
       </div>
     </div>
   </div>
@@ -64,7 +64,7 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
         </span>
         <span class="case-text">
           <span class="case-title">AEO Citation Growth & AI Visibility <span class="case-flagship-pill">Case Study</span></span>
-          <span class="case-desc">Answer Engine Optimization (AEO), generative search visibility, structured schema & measurement framework.</span>
+          <span class="case-desc">AI citations, structured data and search visibility.</span>
         </span>
         <span class="case-arrow" aria-hidden="true">↗</span>
       </button>
@@ -83,7 +83,7 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
     <div class="tl-case-breakdown">
       <div class="tl-case-row">
         <span class="tl-case-label">Problem</span>
-        <p class="tl-case-val">Stagnant organic traffic and low keyword rankings in traditional search channels.</p>
+        <p class="tl-case-val">Low organic traffic and weak search rankings.</p>
       </div>
       <div class="tl-case-row">
         <span class="tl-case-label">Industry</span>
@@ -91,11 +91,11 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
       </div>
       <div class="tl-case-row">
         <span class="tl-case-label">What I Did</span>
-        <p class="tl-case-val">Mapped priority search intent, built interconnected topic-cluster content architectures, fixed site structure and internal linking via technical SEO, and optimized for featured snippets.</p>
+        <p class="tl-case-val">Mapped search intent, built topic clusters, improved technical SEO and internal links, and targeted featured snippets.</p>
       </div>
       <div class="tl-case-row tl-case-row-result">
         <span class="tl-case-label">Result</span>
-        <p class="tl-case-val tl-case-val-result">+32% organic traffic growth (12K to 16.5K monthly sessions), +18% position-zero lift, and +12% revenue uplift.</p>
+        <p class="tl-case-val tl-case-val-result">+32% organic traffic · +18% position-zero lift · +12% revenue.</p>
       </div>
     </div>
   </div>
@@ -110,7 +110,7 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
         </span>
         <span class="case-text">
           <span class="case-title">SEO & Organic Growth Engineering <span class="case-flagship-pill">Case Study</span></span>
-          <span class="case-desc">Topic clusters, technical site health, position-zero capture & commercial search intent optimization.</span>
+          <span class="case-desc">Topic clusters, technical SEO and featured snippets.</span>
         </span>
         <span class="case-arrow" aria-hidden="true">↗</span>
       </button>
@@ -129,23 +129,19 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
     <div class="tl-case-breakdown">
       <div class="tl-case-row">
         <span class="tl-case-label">Problem</span>
-        <p class="tl-case-val">High Customer Acquisition Cost (CAC) and low Return on Ad Spend (ROAS).</p>
+        <p class="tl-case-val">High customer acquisition costs and low ad returns.</p>
       </div>
       <div class="tl-case-row">
         <span class="tl-case-label">Industry</span>
         <p class="tl-case-val">E-commerce / D2C</p>
       </div>
       <div class="tl-case-row">
-        <span class="tl-case-label">Strategy</span>
-        <div class="tl-case-val tl-case-pillars-inline">
-          <p><strong>01. Audience Restructuring:</strong> Refined custom and lookalike segmentation across Meta and Google Ads.</p>
-          <p><strong>02. Creative Testing:</strong> Deployed a systematic ad variation testing framework to combat ad fatigue.</p>
-          <p><strong>03. Funnel Optimization:</strong> Aligned ad messaging with landing pages to boost overall conversion rates.</p>
-        </div>
+        <span class="tl-case-label">What I Did</span>
+        <p class="tl-case-val">Refined Google and Meta audiences, tested creatives, and aligned ads with landing pages.</p>
       </div>
       <div class="tl-case-row tl-case-row-result">
         <span class="tl-case-label">Result</span>
-        <p class="tl-case-val tl-case-val-result">-22% reduction in CAC, an improved ROAS of 3.4x, and a +27% sales uplift within 90 days.</p>
+        <p class="tl-case-val tl-case-val-result">-22% CAC · 3.4x ROAS · +27% sales in 90 days.</p>
       </div>
     </div>
   </div>
@@ -160,7 +156,7 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
         </span>
         <span class="case-text">
           <span class="case-title">Paid Media & ROAS Optimization <span class="case-flagship-pill">Case Study</span></span>
-          <span class="case-desc">Audience restructuring, multivariate creative testing & high-converting landing page funnel alignment.</span>
+          <span class="case-desc">Audience targeting, creative testing and landing pages.</span>
         </span>
         <span class="case-arrow" aria-hidden="true">↗</span>
       </button>
@@ -191,7 +187,7 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
 </section>
 </div>
 <div class="folio-footer-fx" aria-hidden="true"><div class="pb pb1"></div><div class="pb pb2"></div><div class="pb pb3"></div><div class="pb pb4"></div><div class="pb pb5"></div><div class="folio-footer-tint"></div></div>
-<footer class="folio-footer"><nav class="ff-links" aria-label="Portfolio links"><button class="ff-link" id="return-gate"><span class="ff-link-label">Return to gate</span></button><a class="ff-link" href="/Ismail_Bettoumi_CV.pdf" target="_blank" rel="noopener noreferrer"><span class="ff-link-label">CV / Resume</span></a><a class="ff-link" href="${b.whatsapp}" target="_blank" rel="noopener noreferrer"><span class="ff-link-label">WhatsApp</span></a><a class="ff-link" href="${b.linkedin}" target="_blank" rel="noopener noreferrer"><span class="ff-link-label">LinkedIn</span></a></nav></footer>
+<footer class="folio-footer"><nav class="ff-links" aria-label="Portfolio links"><button class="ff-link" id="return-gate"><span class="ff-link-label">Return to gate</span></button><a class="ff-link" href="/Ismail_Bettoumi_CV.pdf" target="_blank" rel="noopener noreferrer"><span class="ff-link-label">CV / Resume</span></a><a class="ff-link" href="${b.whatsapp}" target="_blank" rel="noopener noreferrer"><span class="ff-link-label">WhatsApp</span></a></nav></footer>
 </main>
 <div class="pass-stage" id="gate" tabindex="-1" role="dialog" aria-modal="true" aria-label="Welcome aboard Ismail's portfolio">
   <div class="pass-canvas" id="scanner"></div>
