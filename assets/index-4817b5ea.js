@@ -119,17 +119,6 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
   </div>
   <p class="landing-note">I built Nasaq, an AI-ready design system with 340 tokens, and two AI-powered Figma Community plugins: Design Handoff and Design System Doctor.</p>
 </li>
-<li class="tl-entry tl-entry-products">
-  <div class="tl-head">
-    <span class="tl-dot tl-dot-past" aria-hidden="true"></span>
-    <h2 class="tl-company">Social &amp; Creative</h2>
-  </div>
-  <ul class="creative-grid">
-    <li><a href="/assets/creative/andalus-travel.webp"><img src="/assets/creative/andalus-travel.webp" width="600" height="600" loading="lazy" alt="Andalus Smart Way Thailand travel ad"><span>Andalus Smart Way · Paid social ad</span></a></li>
-    <li><a href="/assets/creative/sanad-insurance.webp"><img src="/assets/creative/sanad-insurance.webp" width="600" height="600" loading="lazy" alt="Arabic cover for a spec insurance carousel"><span>Spec work · insurance carousel concept</span></a></li>
-  </ul>
-  <p class="landing-note"><a href="https://www.instagram.com/andalus_media/" target="_blank" rel="noopener noreferrer">Andalus Media on Instagram ↗</a></p>
-</li>
 </ol>
 <section class="interview-card" aria-label="Talk to Ismail's AI agent">
   <div class="interview-card-heading"><strong>Interview me</strong><span>through my AI agent</span></div>
