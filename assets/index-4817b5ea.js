@@ -50,6 +50,11 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
   </div>
 </div>
 
+<section class="interview-card" aria-label="Talk to Ismail's AI agent">
+  <div class="interview-card-heading"><strong>Interview me</strong><span>through my AI agent</span></div>
+  <elevenlabs-convai agent-id="agent_2301m37nyj2sev593dq6rbeyxq77" action-text="Interview me through my AI agent"></elevenlabs-convai>
+</section>
+
 <section class="folio-track" id="journey" aria-label="Career flight plan">
 <div class="plan-head reveal" aria-hidden="true"><span class="plan-label">Flight plan</span><span class="plan-plane">${Ae}</span></div>
 <div class="folio-path" aria-hidden="true"><svg class="path-curve" viewBox="0 0 44 110"><defs><clipPath id="flight-path-reveal" clipPathUnits="userSpaceOnUse"><rect class="path-reveal" x="-8" y="-8" width="60" height="0"/></clipPath></defs><path class="pc-dots" d="M44 0 V25 C44 65 0 40 0 80 V110" fill="none"/><path class="pc-lit" d="M44 0 V25 C44 65 0 40 0 80 V110" fill="none" clip-path="url(#flight-path-reveal)"/></svg><div class="path-rail"><div class="path-lit"></div><span class="path-glow"></span><svg class="path-tip" viewBox="0 0 8 4"><path d="m1 1 3 2 3-2"/></svg></div></div>
@@ -112,18 +117,7 @@ const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scanner-BjELVn2
     ${be.map(e=>`<li><a class="landing-link" href="${e.href}" target="_blank" rel="noopener noreferrer"><img src="${e.logo}" alt="" width="24" height="24" loading="lazy"><span>${e.key==="nexus"?"Nexus":e.title}</span><span class="landing-arrow" aria-hidden="true">↗</span></a></li>`).join("")}
   </ul>
 </li>
-<li class="tl-entry tl-entry-products">
-  <div class="tl-head">
-    <span class="tl-dot tl-dot-past" aria-hidden="true"></span>
-    <h2 class="tl-company">AI Products</h2>
-  </div>
-  <p class="landing-note">I built Nasaq, an AI-ready design system with 340 tokens, and two AI-powered Figma Community plugins: Design Handoff and Design System Doctor.</p>
-</li>
 </ol>
-<section class="interview-card" aria-label="Talk to Ismail's AI agent">
-  <div class="interview-card-heading"><strong>Interview me</strong><span>through my AI agent</span></div>
-  <elevenlabs-convai agent-id="agent_2301m37nyj2sev593dq6rbeyxq77" action-text="Interview me through my AI agent"></elevenlabs-convai>
-</section>
 <div class="folio-outro reveal">
   <div class="outro-text">
     <p class="outro-title">Thank you for flying. Let's grow something together.</p>
