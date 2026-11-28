@@ -17,3 +17,12 @@
 .folio-track .interview-card { position: relative; inset: auto; transform: none; order: 0; display: block; width: min(100%, 320px); min-height: 180px; margin: 24px 0 0; }
 .strategy-descriptions { display: grid; gap: 12px; }
 .folio-track .interview-card:not(.agent-open) elevenlabs-convai { height: 128px !important; }
+
+.tl-highlights {
+  display: grid;
+  gap: 5px;
+  margin: 9px 0 0;
+  padding-inline-start: 1.15em;
+}
+.tl-highlights li::marker { color: var(--folio-blue); }
+.tl-highlights strong { color: var(--folio-ink); font-weight: 600; }
